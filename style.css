@@ -238,14 +238,10 @@ header nav a:hover {
 
 }
 
-.contato .mapa {
-    margin: auto;
-    text-align: center;
-}
-
-.contato .mapa iframe {
-    width: 900px;
+#map {
     height: 450px;
+    width: 900px;
+    margin: auto;
 }
 
 .contato .contato-card {
@@ -288,9 +284,12 @@ header nav a:hover {
 
 @media (max-width: 900px) {
 
-    .contato .mapa iframe {
+    #map {
+        height: 450px;
         width: 100%;
+        margin: auto;
     }
+
 
     .contato .contato-card {
         position: static;
