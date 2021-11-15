@@ -2,7 +2,7 @@
 
 Exercício de criação de site responsivo em HTML e CSS.
 
-Para ver ao vivo [clique aqui]([https://gillfilho.github.io/site-traveling/](https://gillfilho.github.io/site-traveling/)).
+Para ver ao vivo [clique aqui](https://gillfilho.github.io/site-traveling/).
 
 ### Aprendizado:
 - Tags HTML como header, sections
